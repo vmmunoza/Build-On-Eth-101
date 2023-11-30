@@ -59,31 +59,31 @@ We will write a simple smart contract in Solidity.
 
 The provided Solidity code defines a simple smart contract named `SimpleStorage` on the Ethereum blockchain. Here's a detailed breakdown of what each part of the code does:
 
-3.1. **SPDX License Identifier**:
+2.1. **SPDX License Identifier**:
    ```solidity
    // SPDX-License-Identifier: MIT
    ```
    - This comment line specifies the license under which this smart contract is released. Here, it's the MIT License, a permissive free software license.
 
-3.2. **Version Pragma**:
+2.2. **Version Pragma**:
    ```solidity
    pragma solidity ^0.8.0;
    ```
    - This line specifies the version of the Solidity compiler that should be used to compile this contract. The `^` symbol indicates that the contract is compatible with Solidity version 0.8.0 or any newer version that doesn't break functionality (up to, but not including, version 0.9.0).
 
-3.3. **Contract Declaration**:
+2.3. **Contract Declaration**:
    ```solidity
    contract SimpleStorage {
    ```
    - This line declares a new contract named `SimpleStorage`. A contract in Solidity is a collection of code (its functions) and data (its state) that resides at a specific address on the Ethereum blockchain.
 
-3.4. **State Variable**:
+2.4. **State Variable**:
    ```solidity
    uint256 private storedData;
    ```
    - This line declares a state variable named `storedData` of type `uint256` (unsigned integer of 256 bits). The `private` keyword means that this variable is not accessible from other contracts. This variable is used to store a numerical value.
 
-3.5. **Set Function**:
+2.5. **Set Function**:
    ```solidity
    function set(uint256 x) public {
        storedData = x;
@@ -93,7 +93,7 @@ The provided Solidity code defines a simple smart contract named `SimpleStorage`
    - The `public` keyword makes this function callable from outside the contract.
    - The function sets the value of the `storedData` variable to the value of `x`.
 
-3.6. **Get Function**:
+2.6. **Get Function**:
    ```solidity
    function get() public view returns (uint256) {
        return storedData;
@@ -177,5 +177,4 @@ After deployment, interact with your contract using ethers.js or a frontend libr
 - Ensure you have ETH in your test network wallet to pay for gas fees.
 - Always test your contracts extensively before deploying to the mainnet.
 
-* You've now set up, written, tested, and deployed a simple Ethereum smart contract!*
-
+You've now set up, written, tested, and deployed a simple Ethereum smart contract!
