@@ -54,3 +54,8 @@ This README outlines the comprehensive tech stack used for Ethereum smart contra
 - **npm**: A package manager for JavaScript, used to install and manage project dependencies.
 - **yarn**: An alternative to npm, offering faster package installation and more efficient dependency management.
 
+
+Things I need to add:
+
+-Deploy contract
+-API and connection details.
