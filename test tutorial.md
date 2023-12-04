@@ -6,7 +6,7 @@ This step-by-step guide will walk you through creating and deploying a simple Et
 - Node.js installed on your system.
 - A code editor like Visual Studio Code.
 - Basic understanding of JavaScript and the Ethereum blockchain.
-- (TO DO: deploy contract and api key details).
+- (TO DO: deploy contract and API key details).
 
 ## Step 1: Setting Up Your Project
 First, we'll set up a new Node.js project and install Hardhat.
