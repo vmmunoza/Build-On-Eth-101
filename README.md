@@ -55,7 +55,8 @@ This list outlines a comprehensive tech stack used for Ethereum smart contract a
 - **npm**: A package manager for JavaScript, used to install and manage project dependencies.
 - **yarn**: An alternative to npm, offering faster package installation and more efficient dependency management.
 
-
+---
+Check some sample contracts here: https://github.com/vmmunoza/Build-On-Eth-101/tree/main/Contracts
 ---
 #### Note: things I need to add here as well:
 - Deploy contract.
