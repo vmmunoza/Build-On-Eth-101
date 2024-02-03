@@ -1,6 +1,6 @@
 # Ethereum Development Tech Stack
 
-This README outlines the comprehensive tech stack used for Ethereum smart contract and decentralized application (dApp) development. It includes detailed information on the tools, languages, and libraries essential for a full development lifecycle.
+This list outlines a comprehensive tech stack used for Ethereum smart contract and dApp development. It includes information on the tools, languages, and libraries essential for a full development lifecycle.
 
 ## Table of Contents
 - [Programming Languages](#programming-languages)
@@ -56,7 +56,7 @@ This README outlines the comprehensive tech stack used for Ethereum smart contra
 - **yarn**: An alternative to npm, offering faster package installation and more efficient dependency management.
 
 
-### Note: things I need to add here as well:
-
--Deploy contract.
--API and connection details.
+---
+#### Note: things I need to add here as well:
+- Deploy contract.
+- API and connection details.
