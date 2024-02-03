@@ -21,6 +21,7 @@ This README outlines the comprehensive tech stack used for Ethereum smart contra
 ## Development Frameworks
 - **Hardhat**: A development environment for Ethereum that facilitates building, testing, and deploying. It includes built-in support for Hardhat Network, a development network designed for testing.
 - **Truffle**: Offers a suite of tools for smart contract compilation, automated contract testing, and network management. Truffle also integrates with other tools like Ganache for local blockchain simulation.
+- **Foundry**:
 
 ## Testing Frameworks
 - **Mocha**: A feature-rich JavaScript test framework for asynchronous testing, making it ideal for testing smart contracts. It runs on Node.js and provides a robust and flexible structure for writing and organizing tests.
@@ -55,7 +56,7 @@ This README outlines the comprehensive tech stack used for Ethereum smart contra
 - **yarn**: An alternative to npm, offering faster package installation and more efficient dependency management.
 
 
-Things I need to add:
+### Note: things I need to add here as well:
 
--Deploy contract
+-Deploy contract.
 -API and connection details.
