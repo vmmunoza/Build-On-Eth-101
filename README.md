@@ -64,3 +64,4 @@ Check some sample contracts [here](https://github.com/vmmunoza/Build-On-Eth-101/
 #### Note: things I need to add here as well:
 - Deploy contract.
 - API and connection details.
+- Get Sepolia test tokens: https://sepoliafaucet.com/
