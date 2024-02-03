@@ -1,6 +1,6 @@
-# Ethereum Smart Contract Development Tutorial
+#  Smart Contract Development Tutorial
 
-This step-by-step guide will walk you through creating and deploying a simple Ethereum smart contract.
+This step-by-step guide will walk you through creating and deploying a simple smart contract on Ethreum.
 
 ## Prerequisites
 - Node.js installed on your system.
@@ -225,8 +225,8 @@ Deploy your contract to a test network.
 ## Step 7: Interacting with the Deployed Contract
 After deployment, interact with your contract using ethers.js or a frontend library.
 
-## Additional Notes
+### Additional Notes
 - Ensure you have ETH in your test network wallet to pay for gas fees.
 - Always test your contracts extensively before deploying to the mainnet.
 
-You've now set up, written, tested, and deployed a simple Ethereum smart contract!
+
